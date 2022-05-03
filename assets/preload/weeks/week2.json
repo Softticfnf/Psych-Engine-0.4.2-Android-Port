@@ -1,12 +1,13 @@
 {
 	"songs": [
-		["Spookeez", "spooky", [34, 51, 68]],
-		["South", "spooky", [34, 51, 68]],
-		["Monster", "monster", [34, 51, 68]]
+		["malhare", "gli", [255, 255, 255]],
+		["idiosyncrasy", "van", [255, 255, 255]],
+		["giant-enemy-spider", "mm", [255, 255, 255]],
+		["take-it", "map", [255, 255, 255]]
 	],
 
 	"weekCharacters": [
-		"spooky",
+		"dad",
 		"bf",
 		"gf"
 	],
@@ -17,6 +18,6 @@
 	"weekName": "Week 2",
 	"startUnlocked": true,
 
-	"hideStoryMode": false,
+	"hideStoryMode": true,
 	"hideFreeplay": false
 }
